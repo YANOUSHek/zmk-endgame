@@ -30,7 +30,7 @@ XXX
 &sys_reset   &kp F1        &kp F2        &kp F3        &kp F4        &kp F5        &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12 XXX  &kp DEL
 &bt BT_CLR   &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  ___     ___     ___     ___     ___      ___      ___          ___
 &bootloader  ___           ___           ___           ___           ___           ___     ___     ___     ___     ___      ___      ___          ___
-___ XXX      ___           ___           ___           ___           ___           ___     ___     ___     ___     ___      ___      ___
+___ XXX      ___           ___           ___           ___           ___           ___     ___     ___     ___     ___      ___      XXX
 ___          ___           ___           ___           ___           ___           ___     ___     ___     ___
 XXX
             >;
@@ -43,7 +43,7 @@ XXX
 ___      &kp F14  &kp F15  ___              ___  ___  ___       ___       ___     ___        &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP XXX  &kp DEL
 ___      ___      ___      ___              ___  ___  ___       ___       ___     ___        ___         ___           ___               ___
 ___      ___      ___      ___              ___  ___  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  ___         ___           ___               ___
-___ XXX  ___      ___      ___              ___  ___  ___       ___       ___     ___        ___         ___           ___
+___ XXX  ___      ___      ___              ___  ___  ___       ___       ___     ___        ___         ___           XXX
 ___      ___      ___      &kp LGUI(SPACE)  ___  ___  ___       ___       ___     ___
 XXX
             >;
